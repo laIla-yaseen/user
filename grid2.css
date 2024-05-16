@@ -1,0 +1,12 @@
+#lo{
+    background: white;
+    padding: 10px;
+    width: 1000px;
+height: 1000px;
+    display: grid; 
+    grid-template-columns: repeat(3,200px);
+    grid-template-rows:repeat(3,200px) ;
+    gap:10px 10px
+
+}
+ 

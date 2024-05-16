@@ -1,0 +1,17 @@
+.parent{
+    background: rgb(134, 16, 89);
+    padding: 10px ;
+    display: flex;
+    display: inline-flex;
+    flex-direction: row;
+     
+} 
+.parent div{ padding:200px;
+             margin: 200px;
+}
+#l{ background: rgb(172, 33, 33) ;}
+#ll{ background: rgb(110, 30, 30)  }
+#lll{ background: rgb(37, 2, 2) }
+#llll{ background: rgb(189, 96, 96) }
+
+ 

@@ -1,0 +1,32 @@
+.l{background: rgb(85, 85, 177);
+padding: 50px;
+display: flex;
+align-items: center;
+
+/* flex-direction: column; */
+
+}
+ p#L22{
+    background: white;
+    padding: 5PX;
+    width: 200PX;
+ }
+
+/* p.L23{
+   background: rgb(71, 71, 235);
+   padding: 5PX;
+   width: 200PX;
+   text-align: center; 
+} */
+
+
+
+.ll{
+   text-align: center;
+}
+
+ .kkk{
+   background: #3999b9;
+   display: flex;
+   justify-content: space-around;
+ }

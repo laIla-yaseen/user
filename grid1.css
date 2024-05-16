@@ -1,0 +1,21 @@
+
+.parent{
+    background:white ;
+    padding: 5px ;
+   
+    display: grid; 
+    grid-template-columns: repeat(4,100px);
+    grid-template-rows:repeat(4,100px) ;
+    gap:10px 10px
+    
+    
+     
+} 
+.parent div{background: blue;
+
+}
+#l{ background:blue;}
+#ll{ background: blue  }
+#lll{ background: blue }
+#llll{ background: blue }
+  

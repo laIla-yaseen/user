@@ -1,0 +1,13 @@
+#l {
+    text-decoration-line: overline ;
+    text-decoration-color: green ;
+}
+#ll {
+    text-decoration-line:line-through ;
+}
+#lll {
+    text-decoration-line: underline ;
+    text-decoration-color: rgb(119, 8, 86) ;
+}
+#llll {text-decoration-line: overline underline ;
+    text-decoration-color: blue ;}
